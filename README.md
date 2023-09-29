@@ -236,8 +236,14 @@ If you lose this file, you lose knowning the state of your infrastructure.
 `.terraform` directory contains binaries of terraform providers.
 
 ### Creating simple S3 Bucket using random
-###########################################################
-#### Terraform Destroy
+- Making sure that we follow the naming convention of S3 bucket on AWS on main.tf
+- Then created the bucket with random names 
+![Screenshot 2023-09-29 194857](https://github.com/hazemshaalan/terraform-beginner-bootcamp-2023/assets/114304965/0b0a5635-a6ea-4ebf-8117-89b46176a5b8)
+
+
+- It's officialy on AWS :clown_face: 
+![Screenshot 2023-09-29 194918](https://github.com/hazemshaalan/terraform-beginner-bootcamp-2023/assets/114304965/89e054a6-9e8a-43c1-812f-9da89d01adbe)
+
 
 `teraform destroy`
 This will destroy resources.
