@@ -303,3 +303,16 @@ Provide the following code (replace your token in the file):
 }
 
 
+#####################
+We Forgot to create a ticket to our 13 feature branch so ,
+in order to push the changes that we made in main to #13 branch :
+```git pull 
+   git fetch 
+   git add.
+   git stach save
+
+and on the feature branch :
+   git stash apply
+   
+```
+
