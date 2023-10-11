@@ -265,3 +265,4 @@ This is mostly useful when you are creating multiples of a cloud resource and yo
 
 [For Each Expressions](https://developer.hashicorp.com/terraform/language/expressions/for)
 
+![arcanum](https://github.com/hazemshaalan/terraform-beginner-bootcamp-2023/assets/114304965/1adfe920-1c62-4fc5-a992-c612a1eb3bbc)
